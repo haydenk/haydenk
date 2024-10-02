@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on a super secret Shopify application
-- 📚 I am reading "Podcasting Made Simple" and "The Unspoken Thread"
+- 📚 I am reading "Podcasting Made Simple" and "The Unbroken Thread"
 - 🤔 I’m looking for help with starting blogging and a development podcast
 - 👯 I’m looking to collaborate on a development podcast
 
