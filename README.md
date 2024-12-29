@@ -5,14 +5,6 @@
 
 ---
 
-## Github Statistics
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=haydenk&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=haydenk&theme=material-palenight&hide_border=true)
-
-![Most Used Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=haydenk&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
-
-
 ## Latest Posts
 
 * [Warrior](https://www.haydenk.blog/at-the-movies/2024/08/03/warrior/) - 2024-08-04
