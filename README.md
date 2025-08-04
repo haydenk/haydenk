@@ -1,5 +1,4 @@
 - 🔭 I’m currently working on a super secret Shopify application
-- 📚 I am reading "Podcasting Made Simple", "Desiring God", and "The Unbroken Thread"
 - 🤔 I’m looking for help with starting a blog and a development podcast
 - 👯 I’m looking to collaborate on a development podcast
 
@@ -20,6 +19,8 @@ check out [5 Digital Energy](https://5digitalenergy.referralrock.com/l/HAYDENKIN
 
 
 <!--
+- 📚 I am reading "Podcasting Made Simple", "Desiring God", and "The Unbroken Thread"
+
 **haydenk/haydenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
