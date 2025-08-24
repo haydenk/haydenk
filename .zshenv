@@ -1,5 +1,6 @@
 
 BREW_HOME=$HOME/.brew
+DOCKER_HOME=$HOME/.docker
 
 LS_COLORS="di=34:ln=35:so=32:pi=33:ex=31:bd=34;46:cd=34;43:su=30;41:sg=30;46:tw=30;42:ow=30;43"
 LSCOLORS=exfxcxdxbxegedabagacad
@@ -24,6 +25,7 @@ load_paths=(
     $BREW_HOME/bin
     $BREW_HOME/sbin
     $HOME/.local/bin
+    $DOCKER_HOME/bin
     $HOME/.bun/bin
     $JETBRAINS_SCRIPTS
     $HOME/Library/Group Containers/FELUD555VC.group.com.egnyte.DesktopApp/CLI

@@ -150,3 +150,6 @@ zstyle ':completion:*' list-colors $LS_COLORS
 
 # The next line updates PATH for egcli command.
 if [ -f "$HOME/Library/Group Containers/FELUD555VC.group.com.egnyte.DesktopApp/CLI/egcli.inc" ]; then . "$HOME/Library/Group Containers/FELUD555VC.group.com.egnyte.DesktopApp/CLI/egcli.inc"; fi
+
+# The next line updates PATH for egcli command.
+if [ -f '/Users/haydenk/Library/Group Containers/FELUD555VC.group.com.egnyte.DesktopApp/CLI/egcli.inc' ]; then . '/Users/haydenk/Library/Group Containers/FELUD555VC.group.com.egnyte.DesktopApp/CLI/egcli.inc'; fi

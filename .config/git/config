@@ -134,7 +134,7 @@
 [commit]
 
 	# https://help.github.com/articles/signing-commits-using-gpg/
-	# gpgsign = true
+	gpgsign = true
 
 [diff]
 
@@ -193,7 +193,8 @@
 	required = true
 [user]
 	useConfigOnly = true
-	name = Hayden
+    signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC/6qAIq2reTuBurX3w144hi/zEjia/UraeUDz023Ywa
+	name = Hayden King
 	email = haydenk@users.noreply.github.com
 [remote "origin"]
 	prune = true
@@ -201,3 +202,7 @@
 	defaultBranch = master
 [fetch]
 	prune = true
+[gpg]
+	format = ssh
+[gpg "ssh"]
+    program = "/Applications/1Password.app/Contents/MacOS/op-ssh-sign"
