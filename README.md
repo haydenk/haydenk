@@ -14,10 +14,9 @@
 
 ---
 
-:wave: Hey, if you have a small business (or a business) or know someone who does and need electricity service, <br>
-check out [5 Digital Energy](https://5digitalenergy.referralrock.com/l/HAYDENKING74/)
-
-
+<a href="https://5digitalenergy.referralrock.com/l/HAYDENKING74/" target="_blank" style="text-align: center">
+  <img alt="5 Digital Energy" src="https://github.com/user-attachments/assets/cf974383-f7c8-4cec-9a7c-afd830a86f4a">
+</a>
 
 <!--
 **haydenk/haydenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
