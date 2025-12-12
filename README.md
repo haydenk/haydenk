@@ -1,20 +1,23 @@
+<!--
 - 🔭 I’m currently working on a super secret Shopify application
 - 📚 I am reading "Podcasting Made Simple", "Desiring God", and "The Unbroken Thread"
 - 🤔 I’m looking for help with starting a blog and a development podcast
 - 👯 I’m looking to collaborate on a development podcast
 
 ---
-
+-->
 ## Latest Posts
 
-* 2025-02-20 - [Simple Guide to Split Monorepo into Multiple Repositories](https://master.haydenk.pages.dev/posts/2025/02/20/simple-guide-to-split-monorepo/)
-* 2025-02-15 - [Removing Hugo as a Blog](https://master.haydenk.pages.dev/posts/2025/02/15/removing-hugo/)
-* 2024-07-06 - [Journey to Create a Shopify App](https://master.haydenk.pages.dev/posts/2024/07/06/shopify-app-journey-part1/)
-* 2024-06-21 - [Fresh Start macOS Setup](https://master.haydenk.pages.dev/posts/2024/06/21/fresh-start-macos-silicon/)
+|**Date**|**Title**|
+|:---|:---|
+|2025-02-20|[Simple Guide to Split Monorepo into Multiple Repositories](https://master.haydenk.pages.dev/posts/2025/02/20/simple-guide-to-split-monorepo/)|
+|2025-02-15|[Removing Hugo as a Blog](https://master.haydenk.pages.dev/posts/2025/02/15/removing-hugo/)|
+|2024-07-06|[Journey to Create a Shopify App](https://master.haydenk.pages.dev/posts/2024/07/06/shopify-app-journey-part1/)|
+|2024-06-21|[Fresh Start macOS Setup](https://master.haydenk.pages.dev/posts/2024/06/21/fresh-start-macos-silicon/)|
 
 ---
 
-<a href="https://5digitalenergy.referralrock.com/l/HAYDENKING74/" target="_blank" style="text-align: center">
+<a href="https://5digitalenergy.referralrock.com/l/HAYDENKING74/" target="_blank">
   <img alt="5 Digital Energy" src="https://github.com/user-attachments/assets/cf974383-f7c8-4cec-9a7c-afd830a86f4a">
 </a>
 
