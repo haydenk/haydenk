@@ -146,3 +146,4 @@ zstyle ':completion:*' list-colors $LS_COLORS
 DISABLE_AUTO_UPDATE=true
 DISABLE_UPDATE_PROMPT=true
 
+eval "$(mise activate zsh)"
