@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://5digitalenergy.referralrock.com/l/HAYDENKING74/" target="_blank">
-  <img alt="5 Digital Energy" src="https://github.com/user-attachments/assets/cf974383-f7c8-4cec-9a7c-afd830a86f4a">
+  <img width="1536" height="1024" alt="ChatGPT Image Feb 9, 2026 at 09_54_11 AM" src="https://github.com/user-attachments/assets/aedb8698-7c8a-4ddb-85f1-d7562686b60d" />
 </a>
+
 
 <!--
 **haydenk/haydenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
