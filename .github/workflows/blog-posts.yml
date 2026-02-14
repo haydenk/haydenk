@@ -1,0 +1,25 @@
+name: Update Latest Blog Posts
+
+on:
+  repository_dispatch:
+    types: [blog-updated]
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update blog posts in README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://haydenk.github.io/feed.xml"
+          max_post_count: 10
+          template: "| $date | [$title]($url) |"
+          date_format: "yyyy-mm-dd"
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "Update latest blog posts in README"
