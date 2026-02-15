@@ -17,6 +17,7 @@ jobs:
       - name: Update blog posts in README
         uses: gautamkrishnar/blog-post-workflow@6a6e64abd1f651445da8e59611d0ca0110979aa5 # v1.9.4
         with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://haydenk.github.io/feed.xml"
           max_post_count: 10
           template: "| $date | [$title]($url) |"
