@@ -40,4 +40,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-> **License:** Personal blog — all rights reserved. Forking and reuse are not permitted. See [LICENSE](LICENSE).
+> **License:** Personal profile page — all rights reserved. Forking and reuse are not permitted. See [LICENSE](LICENSE).
