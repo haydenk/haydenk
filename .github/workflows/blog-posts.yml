@@ -23,4 +23,19 @@ jobs:
           template: "<tr><td>$date</td><td><a href=\"$url\">$title</a></td></tr>"
           date_format: "yyyy-mm-dd"
           comment_tag_name: "BLOG-POST-LIST"
-          commit_message: "Update latest blog posts in README"
+          skip_commit: true
+
+      - name: Commit README via Contents API
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes to README.md, skipping."
+            exit 0
+          fi
+          CONTENT=$(base64 -w 0 README.md)
+          SHA=$(gh api repos/haydenk/haydenk/contents/README.md --jq '.sha')
+          gh api --method PUT repos/haydenk/haydenk/contents/README.md \
+            -f message="Update latest blog posts in README" \
+            -f content="$CONTENT" \
+            -f sha="$SHA"
