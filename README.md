@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 <p align="center">
   <h3>My Skills</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,angular,aws,bash,bootstrap,c,cs,css,django,docker,dotnet,elasticsearch,flask,git,heroku,html,java,jenkins,js,kafka,laravel,linux,mysql,nginx,nodejs,php,postgres,postman,ps,py,rails,react,redis,ruby,sass,selenium,sqlite,svelte,symfony,ts,webpack&perline=10" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=ai,angular,ansible,apple,arch,autocad,aws,bash,bootstrap,bsd,bun,c,clojure,cloudflare,cs,css,django,debian,docker,dotnet,dynamodb,elasticsearch,fastapi,flask,git,github,gherki,go,gradle,heroku,html,idea,java,jenkins,js,kafka,laravel,linux,maven,md,mysql,nginx,nodejs,php,phpstorm,postgres,postman,ps,py,pycharm,rails,react,redis,regex,ruby,sass,scala,selenium,sqlite,stackoverflow,svelte,symfony,ts,ubuntu,vim,visualstudio,vscode,webpack,webstorm&perline=20" alt="Languages and Tools" />
   </a>
 </p>
