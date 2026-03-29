@@ -15,16 +15,14 @@
 
 ---
 
-<p align="center">
-  <h3>My Skills</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,php,py,js,ts,ruby,react,svelte,html,css,laravel,rails,nodejs,aws,docker,ansible,linux,nginx,cloudflare,postgres,mysql,redis,git,github,vscode&perline=13" alt="Languages and Tools" />
-  </a>
-</p>
+<h3>My Skills</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,php,py,js,ts,ruby,react,svelte,html,css,laravel,rails,nodejs,aws,docker,ansible,linux,nginx,cloudflare,postgres,mysql,redis,git,github,vscode&perline=13" alt="Languages and Tools" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haydenk&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+---
+
+<img src="https://streak-stats.demolab.com?user=haydenk&hide_border=true" alt="GitHub Stats" />
 
 ---
 
