@@ -19,7 +19,7 @@ jobs:
         with:
           gh_token: ${{ secrets.PAT_TOKEN }}
           feed_list: "https://haydenk.github.io/feed.xml"
-          max_post_count: 10
+          max_post_count: 5
           template: "<tr><td>$date</td><td><a href=\"$url\">$title</a></td></tr>"
           date_format: "yyyy-mm-dd"
           comment_tag_name: "BLOG-POST-LIST"
