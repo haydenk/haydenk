@@ -25,7 +25,8 @@
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=haydenk&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-hayden-king.vercel.app/api?username=haydenk&show_icons=true&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-hayden-king.vercel.app/api/top-langs/?username=haydenk&hide_border=true&layout=compact" alt="Top Languages" />
 
 ---
 
