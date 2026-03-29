@@ -1,0 +1,48 @@
+title: "[Opportunity] "
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for thinking of me. Fill this out and I'll take a look."
+  - type: dropdown
+    id: type
+    attributes:
+      label: Opportunity Type
+      options:
+        - Full-time
+        - Contract
+        - Freelance
+        - Speaking
+        - Writing / Content
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: remote
+    attributes:
+      label: Remote?
+      options:
+        - "Yes — fully remote"
+        - "Hybrid"
+        - "On-site only"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Brief Description
+      description: What's the role/project and what tech stack is involved?
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Best way to follow up
+      placeholder: "Email, LinkedIn URL, etc."
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Confirmation
+      options:
+        - label: This is a real opportunity, not a mass recruiter blast
+          required: true

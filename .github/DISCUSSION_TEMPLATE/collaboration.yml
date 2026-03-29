@@ -1,0 +1,47 @@
+title: "[Collab] "
+body:
+  - type: markdown
+    attributes:
+      value: "Interested in building something together? Tell me about it."
+  - type: input
+    id: project
+    attributes:
+      label: Project Name / Link
+      placeholder: "e.g. github.com/you/your-project"
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of Collaboration
+      options:
+        - Open source contribution
+        - Joint project / co-build
+        - Feedback / code review
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What are you building?
+      description: Brief description of the project and your goals.
+    validations:
+      required: true
+  - type: textarea
+    id: help
+    attributes:
+      label: What kind of help are you looking for?
+      placeholder: "e.g. Go backend, infra setup, architecture review..."
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Stack
+      options:
+        - label: Go
+        - label: Self-hosted / homelab
+        - label: Cloud infrastructure
+        - label: AI / Claude
+        - label: Frontend
+        - label: Other

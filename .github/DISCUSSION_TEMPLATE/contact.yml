@@ -1,0 +1,25 @@
+title: "[Contact] "
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for reaching out! Fill out the form below and I'll get back to you."
+  - type: input
+    id: subject
+    attributes:
+      label: Subject
+      placeholder: "What's this about?"
+    validations:
+      required: true
+  - type: textarea
+    id: message
+    attributes:
+      label: Message
+      placeholder: "Your message here..."
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Before you reach out
+      options:
+        - label: I've checked the relevant repos/projects first
+          required: true

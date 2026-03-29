@@ -1,0 +1,30 @@
+title: "[Q&A] "
+body:
+  - type: markdown
+    attributes:
+      value: "Ask me anything about Go, AI/Claude, or self-hosting. Public questions help others too!"
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      options:
+        - Go
+        - AI / Claude Code
+        - Self-hosting
+        - Cloud Infrastructure
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: Be as specific as possible — include code snippets, error messages, or context where relevant.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you already tried?
+      placeholder: "Optional — share what you've attempted so far."
