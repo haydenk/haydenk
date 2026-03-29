@@ -1,6 +1,8 @@
 # Hey, I'm Hayden — full-stack dev focused on Go, self-hosted tooling, and cloud infrastructure.
 
 - 🔭 Building [homestead](https://github.com/haydenk/homestead) — a self-hosted dashboard for home lab services
+- 🔭 Building [gridsync](https://github.com/haydenk/gridsync) — Rust data hub for ERCOT ESIID data with Postgres and fuzzy search
+- 🔧 Built [overseer](https://github.com/haydenk/overseer) — zero-dependency Procfile process manager in Go
 - 🌱 Learning to effectively use Claude Code
 - 📚 Currently reading "Winning with Accountability" and "Bible Recap"
 - 💬 Ask me about AI, Go, or self-hosting
