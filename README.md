@@ -36,5 +36,6 @@
 ---
 
 <a href="https://5digitalenergy.referralrock.com/l/HAYDENKING74/" target="_blank">
-  <img width="1536" height="1024" alt="ChatGPT Image Feb 9, 2026 at 09_54_11 AM" src="https://github.com/user-attachments/assets/aedb8698-7c8a-4ddb-85f1-d7562686b60d" />
+  <img width="1535" height="512" alt="ChatGPT Image Mar 29, 2026, 06_05_06 PM" src="https://github.com/user-attachments/assets/dad63ebb-3361-48db-b7a4-04867ad1803b" />
 </a>
+
