@@ -28,8 +28,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-hayden-king.vercel.app/api?username=haydenk&show_icons=true&hide_border=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats-hayden-king.vercel.app/api/top-langs/?username=haydenk&hide_border=true&layout=compact" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats-hayden-king.vercel.app/api?username=haydenk&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats-hayden-king.vercel.app/api/top-langs/?username=haydenk&hide_border=true&layout=compact&theme=transparent" alt="Top Languages" /></td>
   </tr>
 </table>
 
