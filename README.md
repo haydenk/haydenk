@@ -7,6 +7,7 @@
 - 🌱 Learning to effectively use Claude Code
 - 📚 Currently reading "Winning with Accountability" and "Bible Recap"
 - 💬 Ask me about AI, Go, or self-hosting
+- 📄 [Resume/CV](https://github.com/haydenk/vitae/releases/latest/download/hayden_king.pdf)
 - 🌐 [haydenk.github.io](https://haydenk.github.io)
 - 📬 [Ask a question](https://github.com/haydenk/haydenk/discussions/new?category=q-a) · [Collaborate](https://github.com/haydenk/haydenk/discussions/new?category=collaboration) · [Opportunity](https://github.com/haydenk/haydenk/discussions/new?category=job-opportunity) · [Contact](https://github.com/haydenk/haydenk/discussions/new?category=contact) · [Private Contact](https://haydenk.github.io/contact/)
 
