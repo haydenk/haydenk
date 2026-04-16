@@ -1,5 +1,7 @@
 # Hey, I'm Hayden — full-stack dev focused on Go, self-hosted tooling, and cloud infrastructure.
 
+- 🛠️ [workbench](https://github.com/haydenk/workbench) — my GitHub Codespaces devcontainer: a ready-to-go environment with cloud CLIs, Docker, dotfiles, and dev tools — the starting point for projects like the ones below
+
 - 🔭 Building [homestead](https://github.com/haydenk/homestead) — a self-hosted dashboard for home lab services, ongoing passion project
 - 🔭 Building [gridsync](https://github.com/haydenk/gridsync) — Rust data hub for ERCOT ESIID data with Postgres and fuzzy search
 - 🌱 Early stages: [statforge](https://github.com/haydenk/statforge) — work in progress
