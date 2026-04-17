@@ -8,7 +8,7 @@
 - 🌱 Early stages: [tablekit](https://github.com/haydenk/tablekit) — lightweight, zero-dependency TypeScript data table library with a plugin architecture
 - 🔧 Built [overseer](https://github.com/haydenk/overseer) — zero-dependency Procfile process manager in Go
 - 🌱 Learning to effectively use Claude Code
-- 📚 Currently reading "Winning with Accountability" and "Bible Recap"
+- 📚 Currently reading "Bible Recap"
 - 💬 Ask me about AI, Go, or self-hosting
 - 📄 [Resume/CV](https://github.com/haydenk/vitae/releases/latest/download/hayden_king.pdf)
 - 🌐 [haydenk.github.io](https://haydenk.github.io)
