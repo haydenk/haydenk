@@ -9,8 +9,8 @@
 - 🔧 Built [overseer](https://github.com/haydenk/overseer) — zero-dependency Procfile process manager in Go
 - 🌱 Learning to effectively use Claude Code
 - 🧙 [nevermind, figured it out](https://xkcd.com/979/)
-- 📺 Working through ["Live Free"](https://www.youtube.com/playlist?list=PLk-gIybirb94bgwkcweCIuQ3HwSAUFCBR)
-- 📚 Currently reading ["The Bible Recap"](https://www.thebiblerecap.com/)
+- 📺 Working through ["Live Free"](https://www.youtube.com/playlist?list=PLk-gIybirb94bgwkcweCIuQ3HwSAUFCBR "When the Word and not the world become the majority of your week, your life will start to change.")
+- 📚 Currently reading ["The Bible Recap"](https://www.thebiblerecap.com/ "Read, Understand & Love the Bible in 365 Days")
 - 💬 Ask me about AI, Go, or self-hosting
 - 📄 [Resume/CV](https://github.com/haydenk/vitae/releases/latest/download/hayden_king.pdf)
 - 🌐 [haydenk.github.io](https://haydenk.github.io)
