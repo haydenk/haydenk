@@ -1,20 +1,20 @@
 # Hey, I'm Hayden — full-stack dev focused on Go, self-hosted tooling, and cloud infrastructure.
 
-🛠️ [workbench](https://github.com/haydenk/workbench) — my GitHub Codespaces devcontainer: a ready-to-go environment with cloud CLIs, Docker, dotfiles, and dev tools — the starting point for projects like the ones below
+🛠️ [workbench](https://github.com/haydenk/workbench "Pack once, deploy anywhere — the launchpad for everything below.") — my GitHub Codespaces devcontainer: a ready-to-go environment with cloud CLIs, Docker, dotfiles, and dev tools — the starting point for projects like the ones below
 
-- 🔭 Building [homestead](https://github.com/haydenk/homestead) — a self-hosted dashboard for home lab services, ongoing passion project
-- 🔭 Building [gridsync](https://github.com/haydenk/gridsync) — Rust data hub for ERCOT ESIID data with Postgres and fuzzy search
-- 🌱 Early stages: [statforge](https://github.com/haydenk/statforge) — work in progress
-- 🌱 Early stages: [tablekit](https://github.com/haydenk/tablekit) — lightweight, zero-dependency TypeScript data table library with a plugin architecture
-- 🔧 Built [overseer](https://github.com/haydenk/overseer) — zero-dependency Procfile process manager in Go
+- 🔭 Building [homestead](https://github.com/haydenk/homestead "Because the cloud is just someone else's homestead.") — a self-hosted dashboard for home lab services, ongoing passion project
+- 🔭 Building [gridsync](https://github.com/haydenk/gridsync "Wrangling Texas electrons into Postgres.") — Rust data hub for ERCOT ESIID data with Postgres and fuzzy search
+- 🌱 Early stages: [statforge](https://github.com/haydenk/statforge "Hammered out one stat at a time.") — work in progress
+- 🌱 Early stages: [tablekit](https://github.com/haydenk/tablekit "Bring your own plugins — the table's on the house.") — lightweight, zero-dependency TypeScript data table library with a plugin architecture
+- 🔧 Built [overseer](https://github.com/haydenk/overseer "Watches your processes so you don't have to.") — zero-dependency Procfile process manager in Go
 - 🌱 Learning to effectively use Claude Code
-- 🧙 [nevermind, figured it out](https://xkcd.com/979/)
+- 🧙 [nevermind, figured it out](https://xkcd.com/979/ "If you're reading this, the answer was never posted.")
 - 📺 Working through ["Live Free"](https://www.youtube.com/playlist?list=PLk-gIybirb94bgwkcweCIuQ3HwSAUFCBR "When the Word and not the world become the majority of your week, your life will start to change.")
 - 📚 Currently reading ["The Bible Recap"](https://www.thebiblerecap.com/ "Read, Understand & Love the Bible in 365 Days")
 - 💬 Ask me about AI, Go, or self-hosting
-- 📄 [Resume/CV](https://github.com/haydenk/vitae/releases/latest/download/hayden_king.pdf)
-- 🌐 [haydenk.github.io](https://haydenk.github.io)
-- 📬 [Ask a question](https://github.com/haydenk/haydenk/discussions/new?category=q-a) · [Collaborate](https://github.com/haydenk/haydenk/discussions/new?category=collaboration) · [Opportunity](https://github.com/haydenk/haydenk/discussions/new?category=job-opportunity) · [Contact](https://github.com/haydenk/haydenk/discussions/new?category=contact) · [Private Contact](https://haydenk.github.io/contact/)
+- 📄 [Resume/CV](https://github.com/haydenk/vitae/releases/latest/download/hayden_king.pdf "Curriculum vitae, freshly compiled.")
+- 🌐 [haydenk.github.io](https://haydenk.github.io "The longer-form thinking lives here.")
+- 📬 [Ask a question](https://github.com/haydenk/haydenk/discussions/new?category=q-a "For the things Google can't quite answer.") · [Collaborate](https://github.com/haydenk/haydenk/discussions/new?category=collaboration "Two heads, one repo.") · [Opportunity](https://github.com/haydenk/haydenk/discussions/new?category=job-opportunity "Hiring? Let's talk.") · [Contact](https://github.com/haydenk/haydenk/discussions/new?category=contact "Public-facing inbox.") · [Private Contact](https://haydenk.github.io/contact/ "Off-the-record channel.")
 
 ## Latest Posts
 
