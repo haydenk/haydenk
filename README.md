@@ -62,6 +62,6 @@
 
 ---
 
-<a href="https://5digitalenergy.referralrock.com/l/HAYDENKING74/" target="_blank">
-  <img alt="5 Digital Energy referral banner" src="assets/5de-banner.png" />
+<a href="https://5digitalenergy.referralrock.com/l/HAYDENKING74/" target="_blank" title="Same Texas grid, friendlier bill.">
+  <img alt="5 Digital Energy referral banner" src="assets/5de-banner.png" title="Same Texas grid, friendlier bill." />
 </a>
