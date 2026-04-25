@@ -5,6 +5,10 @@ on:
     types: [blog-updated]
   workflow_dispatch:
 
+concurrency:
+  group: blog-posts
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -19,7 +23,6 @@ jobs:
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
-          gh_token: ${{ secrets.PAT_TOKEN }}
           feed_list: "https://haydenk.github.io/feed.xml"
           max_post_count: 5
           template: "<tr><td>$date</td><td><a href=\"$url\">$title</a></td></tr>"
@@ -29,15 +32,15 @@ jobs:
 
       - name: Commit README via Contents API
         env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if git diff --quiet README.md; then
             echo "No changes to README.md, skipping."
             exit 0
           fi
           CONTENT=$(base64 -w 0 README.md)
-          SHA=$(gh api repos/haydenk/haydenk/contents/README.md --jq '.sha')
-          gh api --method PUT repos/haydenk/haydenk/contents/README.md \
+          SHA=$(gh api repos/${{ github.repository }}/contents/README.md --jq '.sha')
+          gh api --method PUT repos/${{ github.repository }}/contents/README.md \
             -f message="Update latest blog posts in README" \
             -f content="$CONTENT" \
             -f sha="$SHA"
