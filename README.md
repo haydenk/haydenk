@@ -6,6 +6,7 @@
 - 🔭 Building [gridsync](https://github.com/haydenk/gridsync "Wrangling Texas electrons into Postgres.") — Rust data hub for ERCOT ESIID data with Postgres and fuzzy search
 - 🌱 Early stages: [statforge](https://github.com/haydenk/statforge "Hammered out one stat at a time.") — work in progress
 - 🌱 Early stages: [tablekit](https://github.com/haydenk/tablekit "Bring your own plugins — the table's on the house.") — lightweight, zero-dependency TypeScript data table library with a plugin architecture
+- 🌱 Early stages: [particular-set](https://github.com/haydenk/particular-set "A very particular set of skills your AI agent will acquire.") — provider-agnostic SKILL.md specs for AI coding agents, also installable as a Claude Code plugin
 - 🔧 Built [overseer](https://github.com/haydenk/overseer "Watches your processes so you don't have to.") — zero-dependency Procfile process manager in Go
 - 🌱 Learning to effectively use Claude Code
 - 🧙 [nevermind, figured it out](https://xkcd.com/979/ "If you're reading this, the answer was never posted.")
