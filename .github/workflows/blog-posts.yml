@@ -9,6 +9,13 @@ concurrency:
   group: blog-posts
   cancel-in-progress: false
 
+defaults:
+  run:
+    shell: bash
+
+env:
+  DAGGER_VERSION: "0.20.8"
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -18,17 +25,35 @@ jobs:
       - name: Checkout
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
-      - name: Update blog posts in README
-        uses: gautamkrishnar/blog-post-workflow@6a6e64abd1f651445da8e59611d0ca0110979aa5 # v1.9.4
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      - name: Install Dagger
+        uses: dagger/dagger-for-github@27b130bf0f79a7f6fbbbe0fbca6760dc9bb40a77 # v8.4.1
         with:
-          feed_list: "https://haydenk.github.io/feed.xml"
-          max_post_count: 5
-          template: "<tr><td>$date</td><td><a href=\"$url\">$title</a></td></tr>"
-          date_format: "yyyy-mm-dd"
-          comment_tag_name: "BLOG-POST-LIST"
-          skip_commit: true
+          version: ${{ env.DAGGER_VERSION }}
+
+      - name: Resolve articles markdown
+        id: articles
+        env:
+          PAYLOAD_ARTICLES: ${{ github.event.client_payload.articles_markdown }}
+        run: |
+          set -euo pipefail
+          if [ -n "${PAYLOAD_ARTICLES:-}" ]; then
+            echo "Using articles_markdown from repository_dispatch payload"
+            articles="$PAYLOAD_ARTICLES"
+          else
+            echo "No payload; fetching latest articles from blog README"
+            articles="$(dagger call fetch-latest-articles)"
+          fi
+          {
+            echo 'articles<<ARTICLES_EOF'
+            printf '%s\n' "$articles"
+            echo 'ARTICLES_EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Splice README via Dagger
+        env:
+          ARTICLES: ${{ steps.articles.outputs.articles }}
+        run: |
+          dagger call update-readme --articles-markdown="$ARTICLES" export --path=./README.md
 
       - name: Commit README via Contents API
         env:
