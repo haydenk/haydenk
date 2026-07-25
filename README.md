@@ -1,13 +1,13 @@
 # Hey, I'm Hayden — full-stack dev focused on Go, self-hosted tooling, and cloud infrastructure.
 
-🛠️ [workbench](https://github.com/haydenk/workbench "Pack once, deploy anywhere — the launchpad for everything below.") — my GitHub Codespaces devcontainer: a ready-to-go environment with cloud CLIs, Docker, dotfiles, and dev tools — the starting point for projects like the ones below
+🛠️ [workbench](https://src.haydenk.com/haydenk/workbench "Pack once, deploy anywhere — the launchpad for everything below.") — my GitHub Codespaces devcontainer: a ready-to-go environment with cloud CLIs, Docker, dotfiles, and dev tools — the starting point for projects like the ones below
 
-- 🔭 Building [homestead](https://github.com/haydenk/homestead "Because the cloud is just someone else's homestead.") — a self-hosted dashboard for home lab services, ongoing passion project
-- 🔭 Building [gridsync](https://github.com/haydenk/gridsync "Wrangling Texas electrons into Postgres.") — Rust data hub for ERCOT ESIID data with Postgres and fuzzy search
-- 🌱 Early stages: [statforge](https://github.com/haydenk/statforge "Hammered out one stat at a time.") — work in progress
-- 🌱 Early stages: [tablekit](https://github.com/haydenk/tablekit "Bring your own plugins — the table's on the house.") — lightweight, zero-dependency TypeScript data table library with a plugin architecture
-- 🌱 Early stages: [particular-set](https://github.com/haydenk/particular-set "A very particular set of skills your AI agent will acquire.") — provider-agnostic SKILL.md specs for AI coding agents, also installable as a Claude Code plugin
-- 🔧 Built [overseer](https://github.com/haydenk/overseer "Watches your processes so you don't have to.") — zero-dependency Procfile process manager in Go
+- 🔭 Building [homestead](https://src.haydenk.com/haydenk/homestead "Because the cloud is just someone else's homestead.") — a self-hosted dashboard for home lab services, ongoing passion project
+- 🔭 Building [gridsync](https://src.haydenk.com/haydenk/gridsync "Wrangling Texas electrons into Postgres.") — Rust data hub for ERCOT ESIID data with Postgres and fuzzy search
+- 🌱 Early stages: [statforge](https://src.haydenk.com/haydenk/statforge "Hammered out one stat at a time.") — work in progress
+- 🌱 Early stages: [tablekit](https://src.haydenk.com/haydenk/tablekit "Bring your own plugins — the table's on the house.") — lightweight, zero-dependency TypeScript data table library with a plugin architecture
+- 🌱 Early stages: [particular-set](https://src.haydenk.com/haydenk/particular-set "A very particular set of skills your AI agent will acquire.") — provider-agnostic SKILL.md specs for AI coding agents, also installable as a Claude Code plugin
+- 🔧 Built [overseer](https://src.haydenk.com/haydenk/overseer "Watches your processes so you don't have to.") — zero-dependency Procfile process manager in Go
 - 🌱 Learning to effectively use Claude Code
 - 🧙 [nevermind, figured it out](https://xkcd.com/979/ "If you're reading this, the answer was never posted.")
 - 📺 Working through ["Live Free"](https://www.youtube.com/playlist?list=PLk-gIybirb94bgwkcweCIuQ3HwSAUFCBR "When the Word and not the world become the majority of your week, your life will start to change.")
@@ -57,14 +57,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=haydenk&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenk&hide_border=true&layout=compact&theme=transparent" alt="Top Languages" /></td>
-  </tr>
-</table>
 
 ---
 
