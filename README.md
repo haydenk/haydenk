@@ -13,20 +13,20 @@
 - 📺 Working through ["Live Free"](https://www.youtube.com/playlist?list=PLk-gIybirb94bgwkcweCIuQ3HwSAUFCBR "When the Word and not the world become the majority of your week, your life will start to change.")
 - 📚 Currently reading ["The Bible Recap"](https://www.thebiblerecap.com/ "Read, Understand & Love the Bible in 365 Days")
 - 💬 Ask me about AI, Go, or self-hosting
-- 📄 [Resume/CV](https://github.com/haydenk/vitae/releases/latest/download/hayden_king.pdf "Curriculum vitae, freshly compiled.")
-- 🌐 [haydenk.github.io](https://haydenk.github.io "The longer-form thinking lives here.")
-- 📬 [Ask a question](https://github.com/haydenk/haydenk/discussions/new?category=q-a "For the things Google can't quite answer.") · [Collaborate](https://github.com/haydenk/haydenk/discussions/new?category=collaboration "Two heads, one repo.") · [Opportunity](https://github.com/haydenk/haydenk/discussions/new?category=job-opportunity "Hiring? Let's talk.") · [Contact](https://github.com/haydenk/haydenk/discussions/new?category=contact "Public-facing inbox.") · [Private Contact](https://haydenk.github.io/contact/ "Off-the-record channel.")
+- 📄 [Resume/CV]([https://github.com/haydenk/vitae/releases/latest/download/hayden_king.pdf](https://src.haydenk.com/haydenk/vitae/releases/download/v2026.04.2/hayden_king.pdf) "Curriculum vitae, freshly compiled.")
+- 🌐 [The Lab](https://lab.haydenk.com "The longer-form thinking lives here.")
+- 📬 [Ask a question](https://github.com/haydenk/haydenk/discussions/new?category=q-a "For the things Google can't quite answer.") · [Collaborate](https://github.com/haydenk/haydenk/discussions/new?category=collaboration "Two heads, one repo.") · [Opportunity](https://github.com/haydenk/haydenk/discussions/new?category=job-opportunity "Hiring? Let's talk.") · [Contact](https://github.com/haydenk/haydenk/discussions/new?category=contact "Public-facing inbox.") · [Private Contact](https://www.haydenk.com/contact/ "Off-the-record channel.")
 
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
 | **Date** | **Title** |
 |:---------|:----------|
-| 2026-07-25 | [Faith to Finish: The Perseverance God Honors](https://haydenk.github.io/bible-notes/2026/07/25/faith-to-finish-the-perseverance-god-honors/) |
-| 2026-07-18 | [Faith Over Fear: Embracing God's Purpose Through Life's Storms](https://haydenk.github.io/bible-notes/2026/07/18/faith-over-fear-embracing-gods-purpose-through-lifes-storms/) |
-| 2026-07-11 | [Start Your Engines: Humility Across Generations](https://haydenk.github.io/bible-notes/2026/07/11/start-your-engines-humility-across-generations/) |
-| 2026-07-04 | [Ignited by God's Call: Discovering Your Divine Purpose](https://haydenk.github.io/bible-notes/2026/07/04/ignited-by-gods-call-discovering-your-divine-purpose/) |
-| 2026-06-27 | [Is God Worth It? Faithfulness in the Silence](https://haydenk.github.io/bible-notes/2026/06/27/is-god-worth-it-faithfulness-in-the-silence/) |
+| 2026-07-25 | [Faith to Finish: The Perseverance God Honors](https://lab.haydenk.com/bible-notes/2026/07/25/faith-to-finish-the-perseverance-god-honors/) |
+| 2026-07-18 | [Faith Over Fear: Embracing God's Purpose Through Life's Storms](https://lab.haydenk.com/bible-notes/2026/07/18/faith-over-fear-embracing-gods-purpose-through-lifes-storms/) |
+| 2026-07-11 | [Start Your Engines: Humility Across Generations](https://lab.haydenk.com/bible-notes/2026/07/11/start-your-engines-humility-across-generations/) |
+| 2026-07-04 | [Ignited by God's Call: Discovering Your Divine Purpose](https://lab.haydenk.com/bible-notes/2026/07/04/ignited-by-gods-call-discovering-your-divine-purpose/) |
+| 2026-06-27 | [Is God Worth It? Faithfulness in the Silence](https://lab.haydenk.com/bible-notes/2026/06/27/is-god-worth-it-faithfulness-in-the-silence/) |
 <!-- BLOG-POST-LIST:END -->
 
 ---
